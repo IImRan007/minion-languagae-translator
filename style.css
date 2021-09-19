@@ -46,7 +46,13 @@ body {
 
 @media screen and (max-width: 414px) {
   #text-input {
-    width: 82%;
+    width: 89%;
     height: 12vh;
+    font-size: 1rem;
+    padding: 0.3rem;
+  }
+  .btn {
+    font-size: 1rem;
+    padding: 1rem 1rem;
   }
 }

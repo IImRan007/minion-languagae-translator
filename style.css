@@ -43,3 +43,10 @@ body {
   cursor: pointer;
   font-family: "Baloo Bhai 2", cursive;
 }
+
+@media screen and (max-width: 414px) {
+  #text-input {
+    width: 82%;
+    height: 12vh;
+  }
+}
